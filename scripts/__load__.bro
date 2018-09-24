@@ -1,1 +1,1 @@
-@load ./ftp_hide_passwords.bro
+@load ./main.bro
